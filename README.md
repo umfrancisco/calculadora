@@ -13,7 +13,7 @@ O código pode executar quatro operações de matemática:
   
 Enquanto a resposta do usuário for uma dessas opções,
 o programa será executado de modo a realizar a operação
-entre dois números escolhidos pelo usuário.
+entre dois números reais escolhidos pelo usuário.
 
 No final de cada operação, é perguntado ao usuário
 se ele deseja continuar calculando ou encerrar o programa. 
